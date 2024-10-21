@@ -1,6 +1,6 @@
 <header>
   <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=venom&color=FB8DA6&height=300&section=header&text=Yukyung, Shim GitHub&fontSize=40" alt="header image"/>
+    <img src="https://capsule-render.vercel.app/api?type=venom&color=FB8DA6&height=300&section=header&text=Yukyung Shim GitHub&fontSize=40" alt="header image"/>
   </div>
 </header>
 
