@@ -24,11 +24,29 @@ Here are some ideas to get you started:
 <div align="left">
 
 
-# 안녕하세요! 👋 Hello!おはいようございます!
-저는 언어학과 AI 기술, 특히 자연어 처리(LLM)에 관심이 많은 AI 엔지니어 & 연구원입니다. 데이터 분석부터 모델 최적화까지 다양한 프로젝트와 연구 경험(논문)을 보유 중입니다! ✌️
+# 안녕하세요! 👋 
+저는 언어학과 AI 기술, 특히 자연어 처리(LLM)에 관심이 많은 AI 엔지니어 & 연구원, 심유경입니다. 데이터 분석부터 모델 최적화까지 다양한 프로젝트와 연구 경험(논문)을 보유 중입니다! ✌️
+
+
+# Hello! 👋
+
+
+# おはいようございます! 👋
+
 
 
 ## 😆 PROFILE
+
+
+</div>
+<div align="left">
+
+## 📫 연락처
+- **이메일**: mancy99@naver.com, yukyungshim@gmail.com, mancy99@seoultech.ac.kr
+
+
+</div>
+
 
 
 
@@ -123,12 +141,5 @@ Here are some ideas to get you started:
 - **MS Word 2010(Expert, 한글)** (2018)
 - **AdSP (2024년 예정)**
 - **SQLd (2024년 예정)**
-
-</div>
-<div align="left">
-
-## 📫 연락처
-- **이메일**: mancy99@naver.com, yukyungshim@gmail.com, mancy99@seoultech.ac.kr
-
 
 </div>
