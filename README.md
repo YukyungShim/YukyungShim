@@ -24,10 +24,24 @@ Here are some ideas to get you started:
 <div align="left">
 
 
-# 안녕하세요! 👋
-저는 AI 기술을 활용하여 지속 가능한 솔루션을 개발하는 AI 엔지니어입니다. 데이터 분석부터 모델 최적화까지 다양한 프로젝트를 통해 경험을 쌓았으며, AI와 머신러닝 기술로 복잡한 문제를 해결하는 데 중점을 두고 있습니다.
+# 안녕하세요! 👋 Hello!おはいようございます!
+저는 언어학과 AI 기술, 특히 자연어 처리(LLM)에 관심이 많은 AI 엔지니어 & 연구원입니다. 데이터 분석부터 모델 최적화까지 다양한 프로젝트와 연구 경험(논문)을 보유 중입니다! ✌️
 
-## 📚 프로젝트 경험
+
+## 😆 PROFILE
+
+
+
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%235835CC.svg?style=flat-square)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-%235835CC.svg?style=flat-square)
+![NLP](https://img.shields.io/badge/NLP-%235835CC.svg?style=flat-square)
+![Chatbot](https://img.shields.io/badge/Chatbot-%23FFDD44.svg?style=flat-square)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-%2332CD32.svg?style=flat-square)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-%234B0082.svg?style=flat-square)
+
+
+
+## 📚 PROJECT
 
 ### 금융 플랫폼 프로젝트 (2024.07 - 2024.10)
 - **설명**: 사용자에게 자산 관리와 경제 관련 정보를 제공하는 AI 기반 금융 챗봇을 성공적으로 구축했습니다.
@@ -36,14 +50,10 @@ Here are some ideas to get you started:
 - [[프로젝트 리포지토리](https://github.com/LittlePrince327/AICC_MyAssetPlan.git)]
 
 
-## 🛠️ 기술 스택
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%235835CC.svg?style=flat-square)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-%235835CC.svg?style=flat-square)
-![NLP](https://img.shields.io/badge/NLP-%235835CC.svg?style=flat-square)
-![Chatbot](https://img.shields.io/badge/Chatbot-%23FFDD44.svg?style=flat-square)
-![Data Analysis](https://img.shields.io/badge/Data%20Analysis-%2332CD32.svg?style=flat-square)
-![Data Visualization](https://img.shields.io/badge/Data%20Visualization-%234B0082.svg?style=flat-square)
+
+## 📄 PAPER
+
+
 
 
 </div>
@@ -53,6 +63,12 @@ Here are some ideas to get you started:
 <div align="center">
 
 ## ✨ Tech Stack ✨
+
+### Programming Language
+## 🛠️ TECH STACKS 🛠️
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+
 
 ### 🎨 Frontend
 <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat-square&logo=HTML5&logoColor=white"/>
