@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 
 
 
-## 📚 PROJECT
+## 📚 PROJECT 
 
 ### 금융 플랫폼 프로젝트 (2024.07 - 2024.10)
 - **설명**: 사용자에게 자산 관리와 경제 관련 정보를 제공하는 AI 기반 금융 챗봇을 성공적으로 구축했습니다.
@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 
 
 
-## 📄 PAPER
+## 📜 PAPER 📜
 
 
 
@@ -113,7 +113,7 @@ Here are some ideas to get you started:
 
 
 
-## 🛠 Tools
+### 🛠 Tools
 
 <img alt="Git" src ="https://img.shields.io/badge/Git-F05032.svg?&style=flat-square&logo=Git&logoColor=white"/>
 <img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=flat-square&logo=GitHub&logoColor=white"/>
@@ -123,14 +123,14 @@ Here are some ideas to get you started:
 
 
 
-## ⚙️ ETC
+### ⚙️ ETC
 
 <img alt="Notion" src="https://img.shields.io/badge/Notion-000000.svg?&style=flat-square&logo=Notion&logoColor=white"/>
 <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E.svg?&style=flat-square&logo=Figma&logoColor=white"/>
 <img alt="ERD Cloud" src="https://img.shields.io/badge/ERD%20Cloud-5C2D91.svg?&style=flat-square&logoColor=white"/>
 
 
-## 🏆 CERTIFICATION
+## (뱃지 아이콘) CERTIFICATION 
 - **컴퓨터 활용 능력 2급** (2021)
 - **MS PowerPoint 2010 (한글)** (2018)
 - **MS Word 2010(Expert, 한글)** (2018)
@@ -138,11 +138,11 @@ Here are some ideas to get you started:
 - **SQLd (2024년 예정)**
 
 
-## 🏆 AWARDS
+## 🏆 AWARDS 🏆
 - **컴퓨터 활용 능력 2급** (2021)
 
 
-## 🏆 My Baekjoon
+### 🏆 My Baekjoon
 [![백준 레벨](https://mazassumnida.wtf/api/v2/generate_badge?boj=mancy99)](https://solved.ac/profile/mancy99)
 
   
