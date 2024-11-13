@@ -130,16 +130,22 @@ Here are some ideas to get you started:
 <img alt="ERD Cloud" src="https://img.shields.io/badge/ERD%20Cloud-5C2D91.svg?&style=flat-square&logoColor=white"/>
 
 
-
-## 🏆 My Baekjoon
-[![백준 레벨](https://mazassumnida.wtf/api/v2/generate_badge?boj=mancy99)](https://solved.ac/profile/mancy99)
-
-  
-## 🏆 자격 및 수상
+## 🏆 CERTIFICATION
 - **컴퓨터 활용 능력 2급** (2021)
 - **MS PowerPoint 2010 (한글)** (2018)
 - **MS Word 2010(Expert, 한글)** (2018)
 - **AdSP (2024년 예정)**
 - **SQLd (2024년 예정)**
+
+
+## 🏆 AWARDS
+- **컴퓨터 활용 능력 2급** (2021)
+
+
+## 🏆 My Baekjoon
+[![백준 레벨](https://mazassumnida.wtf/api/v2/generate_badge?boj=mancy99)](https://solved.ac/profile/mancy99)
+
+  
+
 
 </div>
