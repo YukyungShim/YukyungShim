@@ -25,13 +25,28 @@ Here are some ideas to get you started:
 
 
 # 안녕하세요! 👋 
-저는 언어학과 AI 기술, 특히 자연어 처리(LLM)에 관심이 많은 AI 엔지니어 & 연구원, 심유경입니다. 데이터 분석부터 모델 최적화까지 다양한 프로젝트와 연구 경험(논문)을 보유 중입니다! ✌️
+저는 언어학(Linguistics)과 AI 기술, 특히 자연어 처리(LLM)에 관심이 많은 AI Engineer & Researcher 심유경입니다. 
+
+데이터 분석(Data Analysis)부터 모델 최적화(Fine-Tuning)까지 다양한 프로젝트를 수행했습니다.
+
+다양한 분야의 연구 경험(논문)을 보유 중입니다! ✌️
 
 
 # Hello! 👋
+I'm Yukyung Shim, an AI Engineer & researcher, interested in linguistics and AI technology (especially natural language processing (LLM)).
+
+From Data Analysis to model optimization (Fine-Tuning), we've worked on a variety of projects.
+
+I've a wide range of research experience (papers) !  ✌️
+
 
 
 # おはいようございます! 👋
+私は言語学(Linguistics)とAI技術、特に自然言語処理(LLM)に関心が高いAI Engineer&Researcherのシム·ユギョンです。
+
+データ分析(Data Analysis)からモデル最適化(Fine-Tuning)までいろいろのプロジェクトを遂行しました。
+
+様々(さまざま)な分野の研究経験（論文）を保有しています！ ✌️
 
 
 
