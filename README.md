@@ -145,16 +145,19 @@ I've a wide range of research experience (papers) !  ✌️
 <img alt="ERD Cloud" src="https://img.shields.io/badge/ERD%20Cloud-5C2D91.svg?&style=flat-square&logoColor=white"/>
 
 
-## (뱃지 아이콘) CERTIFICATION 
-- **컴퓨터 활용 능력 2급** (2021)
-- **MS PowerPoint 2010 (한글)** (2018)
-- **MS Word 2010(Expert, 한글)** (2018)
-- **AdSP (2024년 예정)**
-- **SQLd (2024년 예정)**
+## 🏅 CERTIFICATION 🏅
+- 
 
 
 ## 🏆 AWARDS 🏆
-- **컴퓨터 활용 능력 2급** (2021)
+### Kaggle
+- Korean Hate Speech Detection (상위 7.28%, 11/151등)
+- https://www.kaggle.com/competitions/korean-hate-speech-detection/overview
+
+- Natural Language Processing with Disaster Tweets ()
+- https://www.kaggle.com/competitions/nlp-getting-started/overview
+
+### Dacon
 
 
 ### 🏆 My Baekjoon
