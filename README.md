@@ -71,7 +71,7 @@ I've a wide range of research experience (papers) !  ✌️
 ![Chatbot](https://img.shields.io/badge/Chatbot-%23FFDD44.svg?style=flat-square)
 ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-%2332CD32.svg?style=flat-square)
 ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-%234B0082.svg?style=flat-square)
-
+![Data Science]
 
 
 ## 📚 PROJECT 
@@ -93,6 +93,28 @@ I've a wide range of research experience (papers) !  ✌️
 
 
 
+
+
+
+## 🏅 CERTIFICATION 🏅
+- 
+
+
+## 🏆 AWARDS 🏆
+### Kaggle
+- Korean Hate Speech Detection (상위 7.28%, 11/151등)
+- https://www.kaggle.com/competitions/korean-hate-speech-detection/overview
+
+- Natural Language Processing with Disaster Tweets ()
+- https://www.kaggle.com/competitions/nlp-getting-started/overview
+
+### Dacon
+
+
+### 🏆 My Baekjoon
+[![백준 레벨](https://mazassumnida.wtf/api/v2/generate_badge?boj=mancy99)](https://solved.ac/profile/mancy99)
+
+  
 <div align="center">
 
 ## ✨ Tech Stack ✨
@@ -143,27 +165,5 @@ I've a wide range of research experience (papers) !  ✌️
 <img alt="Notion" src="https://img.shields.io/badge/Notion-000000.svg?&style=flat-square&logo=Notion&logoColor=white"/>
 <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E.svg?&style=flat-square&logo=Figma&logoColor=white"/>
 <img alt="ERD Cloud" src="https://img.shields.io/badge/ERD%20Cloud-5C2D91.svg?&style=flat-square&logoColor=white"/>
-
-
-## 🏅 CERTIFICATION 🏅
-- 
-
-
-## 🏆 AWARDS 🏆
-### Kaggle
-- Korean Hate Speech Detection (상위 7.28%, 11/151등)
-- https://www.kaggle.com/competitions/korean-hate-speech-detection/overview
-
-- Natural Language Processing with Disaster Tweets ()
-- https://www.kaggle.com/competitions/nlp-getting-started/overview
-
-### Dacon
-
-
-### 🏆 My Baekjoon
-[![백준 레벨](https://mazassumnida.wtf/api/v2/generate_badge?boj=mancy99)](https://solved.ac/profile/mancy99)
-
-  
-
 
 </div>
