@@ -74,7 +74,13 @@ I've a wide range of research experience (papers) !  ✌️
 ![Data Science]
 
 
-## 📚 PROJECT 
+## 📚 PROJECT
+
+### 샘: 기억을 담다 & 쌤: 기억을 관리하다 Alice 해커톤 프로젝트 (2024.11)
+
+
+### KOG 글로벌 한국 생활 튜터링 프로젝트 (2024.10 ~ )
+
 
 ### 금융 플랫폼 프로젝트 (2024.07 - 2024.10)
 - **설명**: 사용자에게 자산 관리와 경제 관련 정보를 제공하는 AI 기반 금융 챗봇을 성공적으로 구축했습니다.
@@ -83,9 +89,28 @@ I've a wide range of research experience (papers) !  ✌️
 - [[프로젝트 리포지토리](https://github.com/LittlePrince327/AICC_MyAssetPlan.git)]
 
 
+### AI 알고리즘을 활용한 영화 추천 시스템 프로젝트
+
+
 
 ## 📜 PAPER 📜
 
+### SSCI / SCI(E)
+
+- (2022.02)
+- (2024 ~ )
+- (2025 ~ )
+- (2025 ~ )
+
+### KCI
+
+- (2021.08)
+- (2020.11)
+
+
+### Thesis
+
+- (학사논문)
 
 
 
