@@ -62,34 +62,41 @@ I've a wide range of research experience (papers) !  ✌️
 
 </div>
 
+![NLP](https://img.shields.io/badge/NLP-%23FFA07A.svg?style=flat-square) 
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%23FFC0CB.svg?style=flat-square)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-%23FFD700.svg?style=flat-square)
+![Chatbot](https://img.shields.io/badge/Chatbot-%23ADFF2F.svg?style=flat-square)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-%23B0E0E6.svg?style=flat-square)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-%236495ED.svg?style=flat-square)
+![Data Science](https://img.shields.io/badge/Data%20Science-%23DDA0DD.svg?style=flat-square)
 
-
-
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%235835CC.svg?style=flat-square)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-%235835CC.svg?style=flat-square)
-![NLP](https://img.shields.io/badge/NLP-%235835CC.svg?style=flat-square)
-![Chatbot](https://img.shields.io/badge/Chatbot-%23FFDD44.svg?style=flat-square)
-![Data Analysis](https://img.shields.io/badge/Data%20Analysis-%2332CD32.svg?style=flat-square)
-![Data Visualization](https://img.shields.io/badge/Data%20Visualization-%234B0082.svg?style=flat-square)
-![Data Science]
 
 
 ## 📚 PROJECT
 
-### 샘: 기억을 담다 & 쌤: 기억을 관리하다 Alice 해커톤 프로젝트 (2024.11)
+### 쌤: 기억을 관리하다, 그리고 샘: 기억을 관리하다 (AI Hellothon 2024 Elice x SPARCS) 프로젝트 (2024.11)
+
+- [[프로젝트 바로가기](https://github.com/YukyungShim/AI-Hellothon-2024-Team-1-)]
+
 
 
 ### KOG 글로벌 한국 생활 튜터링 프로젝트 (2024.10 ~ )
 
-
-### 금융 플랫폼 프로젝트 (2024.07 - 2024.10)
-- **설명**: 사용자에게 자산 관리와 경제 관련 정보를 제공하는 AI 기반 금융 챗봇을 성공적으로 구축했습니다.
-- **성과**: 챗봇의 의도 인식 정확도를 92점까지, 유창성을 8/10점까지 끌어올렸으며, 주가 예측 모델을 통해 최대 70%의 정확도와 8%의 MAE를 달성했습니다.
-- **기술**: KcBERT, Kf-DeBERTa, GPT, RAG
-- [[프로젝트 리포지토리](https://github.com/LittlePrince327/AICC_MyAssetPlan.git)]
+- [[프로젝트 바로가기](https://github.com/JINSUKO/GO3S)]
 
 
-### AI 알고리즘을 활용한 영화 추천 시스템 프로젝트
+
+### My Asset Plan (MAP) 통합 자산 관리 금융 플랫폼 개발 프로젝트 (2024.07 - 2024.10)
+- 가계부 기록과 주가 비교 및 예측, 경제 뉴스와 통합채팅방 기능을 종합적으로 제공하는 통합 자산 관리 플랫폼 개발
+- AI 챗봇에 문장 생성 모델을 더해 사용자와 상호작용할 수 있는 기능 추
+- [[프로젝트 바로가기](https://github.com/LittlePrince327/AICC_MyAssetPlan.git)]
+
+
+### AI 영화 추천 시스템 프로젝트 (2024.05 - 2024.06)
+- AI 추천 알고리즘을 활용한 영화 추천 시스템 개발
+- 코사인 유사도를 통해 영화 줄거리 기반 추천 알고리즘 활용
+- 협업 필터링을 통해 사용자 기반, 아이템 기반 영화 추천 시스템 구축
+- [[프로젝트 바로가기](https://github.com/py4ine/aicc_contest/tree/main/aicc_map)]
 
 
 
@@ -97,20 +104,20 @@ I've a wide range of research experience (papers) !  ✌️
 
 ### SSCI / SCI(E)
 
-- (2022.02)
-- (2024 ~ )
-- (2025 ~ )
-- (2025 ~ )
+- Comparative Analysis of the National Fatality Rate in Construction Industry using Time-Series Approach and Equivalent Evaluation Conditions (2022.02)
+- Comparative Analysis of Fatalities per 100,000 Workers in the Construction Industry among Developed Countries using Multi-criteria Evaluation (2024 ~ )
+- Analysis of Quantitative Risk Assessment for Severe Injury Data of Construction Industry using Visualization Technique (2025 ~ )
+- Development of the Model for Effect of Accident Prevention of Safety Patrol Team in Residential Construction Projects (2025 ~ )
 
 ### KCI
 
-- (2021.08)
-- (2020.11)
+- Comparison of Difference in the Investigation of Fatality Rate in Construction among Various Countries (2021.08)
+- Necessity of Improvements on Code of Practice at the Demolition Work considering Building Structure Type: Based on Demolition Work of Permission and Registration (2020.11)
 
 
 ### Thesis
 
-- (학사논문)
+- (학사논문) Necessity of Improvements of Code of Practice on Demolition Work considering Building Structure Types
 
 
 
@@ -118,22 +125,37 @@ I've a wide range of research experience (papers) !  ✌️
 
 
 
-
-
-
 ## 🏅 CERTIFICATION 🏅
-- 
+- 빅데이터분석기사 (Studying)
+- 정보처리기사 (Studying)
+- JLPT 일본어능력시험 N1 (Studying, 2025.02 예정)
+- SQLD (2024.12 예정)
+- ADsP 데이터 분석 준전문가 (2024.06)
+- 한국어능력시험 1급 (2024.04)
+- 요양보호사 (2024.03)
+- TOEIC Writing AM (2024.01)
+- TOEIC Speaking IH (2024.01)
+- 건설안전기사 (2020.12)
+- 산업안전기사 (2020.11)
+- 2종보통 자동차운전면허 (2020.05)
+- 컴퓨터활용능력 2급 (2020.01)
+- 한국사능력검정시험 1급 (2018.02)
+- 한자능력검정시험 4급 (2014.02)
+- JLPT 일본어능력시험 N4 (2013.12)
+
 
 
 ## 🏆 AWARDS 🏆
 ### Kaggle
-- Korean Hate Speech Detection (상위 7.28%, 11/151등)
+- Korean Hate Speech Detection (Top 7.28%, 11/151등)
 - https://www.kaggle.com/competitions/korean-hate-speech-detection/overview
 
-- Natural Language Processing with Disaster Tweets ()
+- Natural Language Processing with Disaster Tweets (Top 6.64%, 71/1068등)
 - https://www.kaggle.com/competitions/nlp-getting-started/overview
 
 ### Dacon
+- 이미지 색상화 및 손실 부분 복원 AI 경진대회
+- https://dacon.io/competitions/official/236420/data
 
 
 ### 🏆 My Baekjoon
