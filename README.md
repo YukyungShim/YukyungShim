@@ -53,7 +53,10 @@ I've a wide range of research experience (papers) !  ✌️
 ## 😆 PROFILE
 
 
+
 </div>
+
+
 <div align="left">
 
 ## 📫 연락처
@@ -75,20 +78,23 @@ I've a wide range of research experience (papers) !  ✌️
 ## 📚 PROJECT
 
 ### 쌤: 기억을 관리하다, 그리고 샘: 기억을 관리하다 (AI Hellothon 2024 Elice x SPARCS) 프로젝트 (2024.11)
-
+- 노인들이 인지활동의 일환으로 간편하게 음성으로 일상을 기록하고,
+- 이를 기반으로 요양보호사가 대상자의 상태를 효율적으로 관리하고,
+- 인지활동 교육을 원활히 진행할 수 있도록 보조하는 서비스 구축
 - [[프로젝트 바로가기](https://github.com/YukyungShim/AI-Hellothon-2024-Team-1-)]
 
 
 
 ### KOG 글로벌 한국 생활 튜터링 프로젝트 (2024.10 ~ )
-
+- 외국인들이 한국 생활에 적응할 수 있도록 필요한 정보 제공 서비스
+- AI 대화를 통해 일상 언어를 쉽게 수학할 수 있도록 돕는 것을 목표로 함
 - [[프로젝트 바로가기](https://github.com/JINSUKO/GO3S)]
 
 
 
 ### My Asset Plan (MAP) 통합 자산 관리 금융 플랫폼 개발 프로젝트 (2024.07 - 2024.10)
 - 가계부 기록과 주가 비교 및 예측, 경제 뉴스와 통합채팅방 기능을 종합적으로 제공하는 통합 자산 관리 플랫폼 개발
-- AI 챗봇에 문장 생성 모델을 더해 사용자와 상호작용할 수 있는 기능 추
+- AI 챗봇에 문장 생성 모델을 더해 사용자와 상호작용할 수 있는 기능 추가
 - [[프로젝트 바로가기](https://github.com/LittlePrince327/AICC_MyAssetPlan.git)]
 
 
@@ -146,6 +152,12 @@ I've a wide range of research experience (papers) !  ✌️
 
 
 ## 🏆 AWARDS 🏆
+### HACKERTON
+- AI Hellothon 2024 (Elice x SPARCS) (Top 2, 공동 2위/12팀)
+    - 쌤: 기억을 관리하다, 그리고 샘: 기억을 담다
+- https://sparcs.elice.io/tracks/5497/promotion
+
+
 ### Kaggle
 - Korean Hate Speech Detection (Top 7.28%, 11/151등)
 - https://www.kaggle.com/competitions/korean-hate-speech-detection/overview
@@ -157,9 +169,6 @@ I've a wide range of research experience (papers) !  ✌️
 - 이미지 색상화 및 손실 부분 복원 AI 경진대회
 - https://dacon.io/competitions/official/236420/data
 
-
-### 🏆 My Baekjoon
-[![백준 레벨](https://mazassumnida.wtf/api/v2/generate_badge?boj=mancy99)](https://solved.ac/profile/mancy99)
 
   
 <div align="center">
@@ -212,5 +221,10 @@ I've a wide range of research experience (papers) !  ✌️
 <img alt="Notion" src="https://img.shields.io/badge/Notion-000000.svg?&style=flat-square&logo=Notion&logoColor=white"/>
 <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E.svg?&style=flat-square&logo=Figma&logoColor=white"/>
 <img alt="ERD Cloud" src="https://img.shields.io/badge/ERD%20Cloud-5C2D91.svg?&style=flat-square&logoColor=white"/>
+
+
+
+### 🏆 My Baekjoon
+[![백준 레벨](https://mazassumnida.wtf/api/v2/generate_badge?boj=mancy99)](https://solved.ac/profile/mancy99)
 
 </div>
