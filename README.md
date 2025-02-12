@@ -111,9 +111,7 @@ I've a wide range of research experience (papers) !  ✌️
 ### SSCI / SCI(E)
 
 - Comparative Analysis of the National Fatality Rate in Construction Industry using Time-Series Approach and Equivalent Evaluation Conditions (2022.02)
-- Comparative Analysis of Fatalities per 100,000 Workers in the Construction Industry among Developed Countries using Multi-criteria Evaluation (2024 ~ )
-- Analysis of Quantitative Risk Assessment for Severe Injury Data of Construction Industry using Visualization Technique (2025 ~ )
-- Development of the Model for Effect of Accident Prevention of Safety Patrol Team in Residential Construction Projects (2025 ~ )
+
 
 ### KCI
 
