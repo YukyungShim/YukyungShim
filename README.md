@@ -120,7 +120,7 @@ I've a wide range of research experience (papers) !  ✌️
 
 
 ### Thesis
-
+- (석사논문) A Study on the Development of a Web-Based Framework for Risk Assessment
 - (학사논문) Necessity of Improvements of Code of Practice on Demolition Work considering Building Structure Types
 
 
@@ -130,10 +130,6 @@ I've a wide range of research experience (papers) !  ✌️
 
 
 ## 🏅 CERTIFICATION 🏅
-- 빅데이터분석기사 (Studying)
-- 정보처리기사 (Studying)
-- JLPT 일본어능력시험 N1 (Studying, 2025.02 예정)
-- SQLD (2024.12 예정)
 - ADsP 데이터 분석 준전문가 (2024.06)
 - 한국어능력시험 1급 (2024.04)
 - 요양보호사 (2024.03)
