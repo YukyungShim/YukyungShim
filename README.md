@@ -77,6 +77,18 @@ I've a wide range of research experience (papers) !  ✌️
 
 ## 📚 PROJECT
 
+### CLEAR: 위험성평가의 웹 기반 프레임워크 개발 (석사 학위 논문 관련 프로젝트) (2025.05 ~ 2026.01)
+- 수작업으로 진행되는 산업현장의 위험성평가를,
+- 보다 편리하고 용이하게 수행할 수 있도록 보조하는
+- 웹 기반의 프레임워크 개발
+- [[프로젝트 바로가기](https://github.com/YukyungShim/CLEAR)]
+
+
+### SafetyLaw: 산업안전보건법 및 중대재해처벌법 등 안전법률 챗봇 개발 (2025.05)
+- 산업안전보건법 및 중대재해처벌법 법령을 이용한 법률 챗봇 개발
+- [[프로젝트 바로가기](https://github.com/YukyungShim/SL_safetylaw_git)]
+
+
 ### 쌤: 기억을 관리하다, 그리고 샘: 기억을 관리하다 (AI Hellothon 2024 Elice x SPARCS) 프로젝트 (2024.11)
 - 노인들이 인지활동의 일환으로 간편하게 음성으로 일상을 기록하고,
 - 이를 기반으로 요양보호사가 대상자의 상태를 효율적으로 관리하고,
@@ -130,6 +142,8 @@ I've a wide range of research experience (papers) !  ✌️
 
 
 ## 🏅 CERTIFICATION 🏅
+- 프롬프트 엔지니어링 1급
+- 프롬프트 엔지니어링 2급
 - ADsP 데이터 분석 준전문가 (2024.06)
 - 한국어능력시험 1급 (2024.04)
 - 요양보호사 (2024.03)
@@ -146,6 +160,9 @@ I've a wide range of research experience (papers) !  ✌️
 
 
 ## 🏆 AWARDS 🏆
+
+### 2024년 물류데이터 활용 신규 서비스 아이디어 공모전 최우수상(대전정보문화산업진흥원): 이미지 Detecting 기술을 활용한 과적 화물차 감지 솔루션 설계
+
 ### HACKERTON
 - AI Hellothon 2024 (Elice x SPARCS) (Top 2, 공동 2위/12팀)
     - 쌤: 기억을 관리하다, 그리고 샘: 기억을 담다
